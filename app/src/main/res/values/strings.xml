@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test-vegan</string>
+    <string name="error">There was an error. Please try again</string>
+</resources>
